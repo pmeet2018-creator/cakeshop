@@ -110,7 +110,7 @@ const business = {
     // Paste the Google Apps Script Web App URL here after following
     // GOOGLE_SHEETS_SETUP.md. Leave blank and the form will tell the
     // visitor signups are temporarily unavailable instead of failing silently.
-    sheetWebAppUrl:https://script.google.com/macros/s/AKfycbxgoyK0j-Os77iW02Vxl7a0PPyRVYtGMi0YTKpiwuMg0REzcTgLCc8b6402EXk6DrA/exec,
+    sheetWebAppUrl:'https://script.google.com/macros/s/AKfycbxgoyK0j-Os77iW02Vxl7a0PPyRVYtGMi0YTKpiwuMg0REzcTgLCc8b6402EXk6DrA/exec',
     consentText: 'I agree to be contacted on WhatsApp/phone about my order and upcoming celebration offers.'
   },
 
