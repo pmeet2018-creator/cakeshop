@@ -20,8 +20,8 @@ const business = {
     ]
   },
 
-  phone: '9913479747',
-  whatsapp: '9913479747',
+  phone: '+91+919913479747',
+  whatsapp: '+919913479747',
   email: '',
   address: 'Kamrej Char-Rasta',
   city: 'Surat',
